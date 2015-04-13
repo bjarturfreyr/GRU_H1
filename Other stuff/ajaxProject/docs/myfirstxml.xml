@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+    <Person id="123456">
+        <Name>Ari</Name>
+        <Email>ari@simnet.is</Email>
+        <Gsm>8777064</Gsm>
+        <Address>Aragata 1</Address>
+    </Person>
+    <Person id="5678954">
+        <Name>Barni</Name>
+        <Email>bjarni@simnet.is</Email>
+        <Gsm>8991212</Gsm>
+        <Address>Bjarnavöllum 14</Address>
+    </Person>
+    <Person id="33456789">
+        <Name>Daníel</Name>
+        <Email type="simnet.is">dadi@simnet.is</Email>
+        <Gsm>8992323</Gsm>
+        <Address>Daðagata 1</Address>
+    </Person>
+    <Person id="1502603449">
+        <Name>Bára</Name>
+        <Email type="simnet.is">ede@tskoli.is</Email>
+        <Gsm>8997064</Gsm>
+        <Address>Vesturvegur 8</Address>
+    </Person>
+    <Person id="1502608229">
+        <Name>Einar</Name>
+        <Email type="simnet.is">ene@tskoli.is</Email>
+        <Gsm>8997064</Gsm>
+        <Address>Hringbraut 12</Address>
+    </Person>
+    <Person id="1502608449">
+        <Name>Ólafur</Name>
+        <Email type="simnet.is">ole@tskoli.is</Email>
+        <Gsm>8994567</Gsm>
+        <Address>Framnesvegur 8</Address>
+    </Person>
+    <Person id="1502607239">
+        <Name>Eðvard</Name>
+        <Email type="simnet.is">ede@tskoli.is</Email>
+        <Gsm>8991234</Gsm>
+        <Address>Dagsbrún 8</Address>
+    </Person>
+    <Person id="1502607449">
+        <Name>Eiríkur</Name>
+        <Email type="simnet.is">ede@tskoli.is</Email>
+        <Gsm>8997064</Gsm>
+        <Address>Dalsás 8</Address>
+    </Person>
+</root>

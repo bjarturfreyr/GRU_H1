@@ -1,0 +1,5 @@
+Green - #1ab188
+
+White (borders?) - #ffffff
+
+Blackish - #13232f

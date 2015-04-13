@@ -1,0 +1,3 @@
+﻿Web App sem þú notar í verslunarmiðstöð t.d. Kringluni og getur fundið búðir með geolocation sem eru næst þér sem hafa tilboð og fleira.
+ 
+Web app er hentugra heldur en native app vegna þess að það þarf að uppfæra síðuna reglulega, þegar koma ný tilboð og svoleiðis. Það er einnig hentugra heldur en venjuleg vefsíða þarsem þú þarft að vera á staðnum til að geta nýtt þetta app til fulls.

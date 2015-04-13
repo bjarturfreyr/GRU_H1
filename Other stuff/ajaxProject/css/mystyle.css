@@ -1,0 +1,41 @@
+/* 
+    Document   : mystyle
+    Created on : 26.2.2013, 14:31:02
+    Author     : 2611932489
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.menu {
+    background-color: #00FF00;
+    width: 100%;
+    border: 1px solid black;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
+    
+}
+
+#header {
+    background-color: fuchsia;
+    width: 100%;
+    height: 60px;
+    border: 1px solid black;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+#content {
+    text-align: center;
+    width: 30%;
+    
+}
+
+#txtSqlInfo {
+    
+    width: 30%
+}

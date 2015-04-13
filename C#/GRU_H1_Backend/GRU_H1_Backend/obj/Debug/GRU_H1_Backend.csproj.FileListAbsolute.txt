@@ -1,0 +1,47 @@
+c:\users\0604972069\documents\visual studio 2013\Projects\GRU_H1_Backend\GRU_H1_Backend\bin\Debug\GRU_H1_Backend.exe.config
+c:\users\0604972069\documents\visual studio 2013\Projects\GRU_H1_Backend\GRU_H1_Backend\bin\Debug\GRU_H1_Backend.exe
+c:\users\0604972069\documents\visual studio 2013\Projects\GRU_H1_Backend\GRU_H1_Backend\bin\Debug\GRU_H1_Backend.pdb
+c:\users\0604972069\documents\visual studio 2013\Projects\GRU_H1_Backend\GRU_H1_Backend\bin\Debug\MySql.Data.dll
+c:\users\0604972069\documents\visual studio 2013\Projects\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.csprojResolveAssemblyReference.cache
+c:\users\0604972069\documents\visual studio 2013\Projects\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.Form1.resources
+c:\users\0604972069\documents\visual studio 2013\Projects\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.Properties.Resources.resources
+c:\users\0604972069\documents\visual studio 2013\Projects\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.csproj.GenerateResource.Cache
+c:\users\0604972069\documents\visual studio 2013\Projects\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.exe
+c:\users\0604972069\documents\visual studio 2013\Projects\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.pdb
+c:\users\0604972069\documents\visual studio 2013\Projects\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.Mainframe.resources
+\\SKRA2.2t.local\nemfredirect$\0604972069\Documents\Visual Studio 2013\Projects\GRU_H1_Backend\GRU_H1_Backend\bin\Debug\GRU_H1_Backend.exe.config
+\\SKRA2.2t.local\nemfredirect$\0604972069\Documents\Visual Studio 2013\Projects\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.exe
+\\SKRA2.2t.local\nemfredirect$\0604972069\Documents\Visual Studio 2013\Projects\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.pdb
+\\tsuts\GRU_H1\C#\GRU_H1_Backend\GRU_H1_Backend\bin\Debug\GRU_H1_Backend.exe.config
+\\tsuts\GRU_H1\C#\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.exe
+\\tsuts\GRU_H1\C#\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.pdb
+\\tsuts\GRU_H1\C#\GRU_H1_Backend\GRU_H1_Backend\bin\Debug\GRU_H1_Backend.exe
+\\tsuts\GRU_H1\C#\GRU_H1_Backend\GRU_H1_Backend\bin\Debug\GRU_H1_Backend.pdb
+\\tsuts\GRU_H1\C#\GRU_H1_Backend\GRU_H1_Backend\bin\Debug\MySql.Data.dll
+\\tsuts\GRU_H1\C#\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.csprojResolveAssemblyReference.cache
+\\tsuts\GRU_H1\C#\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.Form1.resources
+\\tsuts\GRU_H1\C#\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.Mainframe.resources
+\\tsuts\GRU_H1\C#\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.Properties.Resources.resources
+\\tsuts\GRU_H1\C#\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.csproj.GenerateResource.Cache
+\\tsuts\GRU_H1\Main Site\C#\GRU_H1_Backend\GRU_H1_Backend\bin\Debug\GRU_H1_Backend.exe.config
+\\tsuts\GRU_H1\Main Site\C#\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.exe
+\\tsuts\GRU_H1\Main Site\C#\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.pdb
+\\tsuts\GRU_H1\Main Site\C#\GRU_H1_Backend\GRU_H1_Backend\bin\Debug\GRU_H1_Backend.exe
+\\tsuts\GRU_H1\Main Site\C#\GRU_H1_Backend\GRU_H1_Backend\bin\Debug\GRU_H1_Backend.pdb
+\\tsuts\GRU_H1\Main Site\C#\GRU_H1_Backend\GRU_H1_Backend\bin\Debug\MySql.Data.dll
+\\tsuts\GRU_H1\Main Site\C#\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.csprojResolveAssemblyReference.cache
+\\tsuts\GRU_H1\Main Site\C#\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.Form1.resources
+\\tsuts\GRU_H1\Main Site\C#\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.Mainframe.resources
+\\tsuts\GRU_H1\Main Site\C#\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.Properties.Resources.resources
+\\tsuts\GRU_H1\Main Site\C#\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.csproj.GenerateResource.Cache
+\\tsuts\GRU_H1\MainSite\C#\GRU_H1_Backend\GRU_H1_Backend\bin\Debug\GRU_H1_Backend.exe.config
+\\tsuts\GRU_H1\MainSite\C#\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.exe
+\\tsuts\GRU_H1\MainSite\C#\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.pdb
+\\tsuts\GRU_H1\MainSite\C#\GRU_H1_Backend\GRU_H1_Backend\bin\Debug\GRU_H1_Backend.exe
+\\tsuts\GRU_H1\MainSite\C#\GRU_H1_Backend\GRU_H1_Backend\bin\Debug\GRU_H1_Backend.pdb
+\\tsuts\GRU_H1\MainSite\C#\GRU_H1_Backend\GRU_H1_Backend\bin\Debug\MySql.Data.dll
+\\tsuts\GRU_H1\MainSite\C#\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.csprojResolveAssemblyReference.cache
+\\tsuts\GRU_H1\MainSite\C#\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.Form1.resources
+\\tsuts\GRU_H1\MainSite\C#\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.Mainframe.resources
+\\tsuts\GRU_H1\MainSite\C#\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.Properties.Resources.resources
+\\tsuts\GRU_H1\MainSite\C#\GRU_H1_Backend\GRU_H1_Backend\obj\Debug\GRU_H1_Backend.csproj.GenerateResource.Cache

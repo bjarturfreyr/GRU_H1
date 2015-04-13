@@ -1,0 +1,16 @@
+\\skra2.2t.local\nemfredirect$\2212962309\Documents\Önn 3\FOR\Timaverkefni8\Timaverkefni8\bin\Debug\Timaverkefni8.exe.config
+\\skra2.2t.local\nemfredirect$\2212962309\Documents\Önn 3\FOR\Timaverkefni8\Timaverkefni8\bin\Debug\Timaverkefni8.exe
+\\skra2.2t.local\nemfredirect$\2212962309\Documents\Önn 3\FOR\Timaverkefni8\Timaverkefni8\bin\Debug\Timaverkefni8.pdb
+\\skra2.2t.local\nemfredirect$\2212962309\Documents\Önn 3\FOR\Timaverkefni8\Timaverkefni8\bin\Debug\MySql.Data.dll
+\\skra2.2t.local\nemfredirect$\2212962309\Documents\Önn 3\FOR\Timaverkefni8\Timaverkefni8\obj\Debug\Timaverkefni8.csprojResolveAssemblyReference.cache
+\\skra2.2t.local\nemfredirect$\2212962309\Documents\Önn 3\FOR\Timaverkefni8\Timaverkefni8\obj\Debug\Timaverkefni8.Form1.resources
+\\skra2.2t.local\nemfredirect$\2212962309\Documents\Önn 3\FOR\Timaverkefni8\Timaverkefni8\obj\Debug\Timaverkefni8.Form2.resources
+\\skra2.2t.local\nemfredirect$\2212962309\Documents\Önn 3\FOR\Timaverkefni8\Timaverkefni8\obj\Debug\Timaverkefni8.Properties.Resources.resources
+\\skra2.2t.local\nemfredirect$\2212962309\Documents\Önn 3\FOR\Timaverkefni8\Timaverkefni8\obj\Debug\Timaverkefni8.csproj.GenerateResource.Cache
+\\skra2.2t.local\nemfredirect$\2212962309\Documents\Önn 3\FOR\Timaverkefni8\Timaverkefni8\obj\Debug\Timaverkefni8.exe
+\\skra2.2t.local\nemfredirect$\2212962309\Documents\Önn 3\FOR\Timaverkefni8\Timaverkefni8\obj\Debug\Timaverkefni8.pdb
+\\skra2.2t.local\nemfredirect$\2212962309\Documents\Önn 3\FOR\Timaverkefni8\Timaverkefni8\obj\Debug\Timaverkefni8.videoleigan.resources
+\\skra2.2t.local\nemfredirect$\2212962309\Documents\Önn 3\FOR\Timaverkefni8\Timaverkefni8\obj\Debug\Timaverkefni8.nyskra.resources
+\\tsuts\GRU_H1\Timaverkefni8\Timaverkefni8\bin\Debug\Timaverkefni8.exe.config
+\\tsuts\GRU_H1\Timaverkefni8\Timaverkefni8\obj\Debug\Timaverkefni8.exe
+\\tsuts\GRU_H1\Timaverkefni8\Timaverkefni8\obj\Debug\Timaverkefni8.pdb

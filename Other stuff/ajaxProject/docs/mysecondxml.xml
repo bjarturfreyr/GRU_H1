@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    
+    <Car id="123">
+        <Name>Explorer</Name>
+        <Brand>Ford</Brand>
+        <Year>1998</Year>
+    </Car>
+    <Car id="223">
+        <Name>Royale</Name>
+        <Brand>Bugatti</Brand>
+        <Year>2005</Year>
+    </Car>
+    <Car id="123">
+        <Name>C5</Name>
+        <Brand>Citroen</Brand>
+        <Year>2008</Year>
+    </Car>
+    
+<Car><Name>C1</Name><Brand>Citroen</Brand><Year>2003</Year></Car></root>
